@@ -1,0 +1,6 @@
+target/
+out/
+*.class
+src/main/resources/db.properties
+lib/
+sources.txt
